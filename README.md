@@ -1,7 +1,7 @@
 # 👋 Calebe Alves Camara
 
 Estudante de Desenvolvimento de Sistemas | 17 anos | 3º ano EM  
-🔍 Procurando estágio através do programa DEEM
+🔍 Procurando estágio através do programa CIEE
 
 ## 🚀 Sobre
 
@@ -86,3 +86,4 @@ Portal web com 24+ ferramentas úteis desenvolvido em Flask
 💼 Aberto a oportunidades de estágio e colaborações
 
 </div>
+
