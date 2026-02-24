@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Calebe Alves Câmara e sou estudante de Desenvolvimento de Sistemas, do Brasil 🇧🇷</h2>
 
-###
+### 🎓 3º Ano Ensino Médio Técnico | 17 anos | 🔍 Em busca de estágio (DEEM)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CAlexdx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -11,20 +11,22 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo" />
 </div>
 
 ###
@@ -48,33 +50,26 @@
 
 ## 👨‍💻 Sobre Mim
 
-Tenho 17 anos e estou cursando o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Sou apaixonado por programação e adoro criar soluções práticas que facilitam o dia a dia das pessoas.
+Tenho 17 anos e sou aluno da rede estadual cursando o 3º ano do **Ensino Médio Técnico em Desenvolvimento de Sistemas**. Sou apaixonado por tecnologia e por resolver problemas reais através da programação.
 
-Atualmente estou procurando oportunidades de estágio através do programa DEEM para aplicar meus conhecimentos e continuar aprendendo na prática.
+Atualmente, busco minha primeira oportunidade de **estágio** para aplicar meus conhecimentos em Python, Desenvolvimento Web e Banco de Dados, contribuindo com a equipe enquanto acelero meu aprendizado prático.
 
 ## 🚀 Projeto em Destaque
 
 ### [🐍 Meu Portal Python](https://meu-portal-python.onrender.com)
 
-Portal web completo com mais de 24 ferramentas úteis desenvolvido em Flask. O projeto reúne calculadoras, conversores, geradores e integrações com APIs externas em uma interface simples e intuitiva.
+Um portal web completo desenvolvido em **Flask** que centraliza mais de 24 ferramentas úteis, desde calculadoras financeiras complexas até integrações com APIs globais.
 
-**Tecnologias:** Python, Flask, HTML, CSS, JavaScript  
-**Repositório:** [github.com/CAlexdx/meu-portal-python](https://github.com/CAlexdx/meu-portal-python)
-
-**Principais funcionalidades:**
-- 🧮 Calculadoras (básica, IMC, juros compostos, CLT vs PJ)
-- 🔄 Conversores (moedas, temperatura, medidas, tempo)
-- 🛠️ Geradores (senhas, QR Code, encurtador de links)
-- 🌍 Integrações (clima global, tradutor, mapa turístico)
-- 📊 Sistema de estatísticas e painel administrativo
+- **Stack:** Python, Flask, HTML5, CSS3, JavaScript e SQLite.
+- **Funcionalidades:** Gerador de senhas/QR Codes, conversores, sistema de clima e painel administrativo.
+- **Repositório:** [github.com/CAlexdx/meu-portal-python](https://github.com/CAlexdx/meu-portal-python)
 
 ## 💼 O Que Ofereço
 
-- ✨ Criatividade e vontade de aprender
-- 🎯 Dedicação e comprometimento
-- 🤝 Trabalho em equipe
-- 🚀 Rápida capacidade de aprendizado
-- 📈 Foco em resultados
+- ✨ **Vontade de Aprender:** Facilidade em absorver novas stacks e metodologias.
+- 🤝 **Trabalho em Equipe:** Ótima comunicação e foco em colaboração.
+- 🎯 **Comprometimento:** Dedicação total aos projetos e prazos.
+- 🚀 **Proatividade:** Busco sempre otimizar processos e sugerir melhorias.
 
 ## 📚 Atualmente Estudando
 
@@ -82,16 +77,10 @@ Portal web completo com mais de 24 ferramentas úteis desenvolvido em Flask. O p
 const aprendendo = {
     frontend: ["React", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "PostgreSQL"],
-    outros: ["Docker", "Design Patterns", "Clean Code"]
+    outros: ["Docker", "Clean Code", "Metodologias Ágeis"]
 };
-```
-
----
-
 <div align="center">
 
-**💼 Aberto a oportunidades de estágio e colaborações**
-
-Desenvolvido com ❤️ e Python
+💼 Aberto a oportunidades de estágio e conexões profissionais
 
 </div>
