@@ -1,50 +1,82 @@
-# 👋 Calebe Alves Camara
+<h2 align="left">Olá 👋! Meu nome é Calebe Alves Câmara e sou estudante de Desenvolvimento de Sistemas, do Brasil 🇧🇷</h2>
 
-Estudante de Desenvolvimento de Sistemas | 17 anos | 3º ano EM  
-🔍 Procurando estágio através do programa CIEE
+###
 
-## 🚀 Sobre
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CAlexdx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CAlexdx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Desenvolvedor em formação com experiência prática em desenvolvimento web. Apaixonado por criar soluções úteis e aprender novas tecnologias.
+###
 
-```python
-class Calebe:
-    def __init__(self):
-        self.idade = 17
-        self.educacao = "3º ano - Desenvolvimento de Sistemas"
-        self.status = "Procurando estágio"
-        self.localizacao = "Brasil 🇧🇷"
-    
-    def stack(self):
-        return {
-            "linguagens": ["Python", "JavaScript", "HTML", "CSS"],
-            "frameworks": ["Flask", "Bootstrap"],
-            "ferramentas": ["Git", "GitHub", "VS Code"],
-            "banco_de_dados": ["SQLite", "JSON"]
-        }
-```
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 💼 Procurando Oportunidades
+###
 
-Estudante dedicado cursando Ensino Médio Técnico em Desenvolvimento de Sistemas. Experiência prática em desenvolvimento web e sempre buscando aprender.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-O que ofereço:
-- Criatividade e vontade de aprender
-- Dedicação e comprometimento
-- Trabalho em equipe
-- Rápida capacidade de aprendizado
-- Foco em resultados
+###
 
-## 🛠️ Stack
+<div align="left">
+  <a href="https://github.com/CAlexdx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
+  <a href="mailto:minecraftxdxcalebe@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+###
 
-## 📚 Aprendendo
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/CAlexdx/CAlexdx/output/snake.svg" alt="Snake animation" />
+
+###
+
+## 👨‍💻 Sobre Mim
+
+Tenho 17 anos e estou cursando o 3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas. Sou apaixonado por programação e adoro criar soluções práticas que facilitam o dia a dia das pessoas.
+
+Atualmente estou procurando oportunidades de estágio através do programa DEEM para aplicar meus conhecimentos e continuar aprendendo na prática.
+
+## 🚀 Projeto em Destaque
+
+### [🐍 Meu Portal Python](https://meu-portal-python.onrender.com)
+
+Portal web completo com mais de 24 ferramentas úteis desenvolvido em Flask. O projeto reúne calculadoras, conversores, geradores e integrações com APIs externas em uma interface simples e intuitiva.
+
+**Tecnologias:** Python, Flask, HTML, CSS, JavaScript  
+**Repositório:** [github.com/CAlexdx/meu-portal-python](https://github.com/CAlexdx/meu-portal-python)
+
+**Principais funcionalidades:**
+- 🧮 Calculadoras (básica, IMC, juros compostos, CLT vs PJ)
+- 🔄 Conversores (moedas, temperatura, medidas, tempo)
+- 🛠️ Geradores (senhas, QR Code, encurtador de links)
+- 🌍 Integrações (clima global, tradutor, mapa turístico)
+- 📊 Sistema de estatísticas e painel administrativo
+
+## 💼 O Que Ofereço
+
+- ✨ Criatividade e vontade de aprender
+- 🎯 Dedicação e comprometimento
+- 🤝 Trabalho em equipe
+- 🚀 Rápida capacidade de aprendizado
+- 📈 Foco em resultados
+
+## 📚 Atualmente Estudando
 
 ```javascript
 const aprendendo = {
@@ -54,36 +86,12 @@ const aprendendo = {
 };
 ```
 
-## 🏆 Projeto Destaque
-
-### [Meu Portal Python](https://github.com/CAlexdx/meu-portal-python)
-Portal web com 24+ ferramentas úteis desenvolvido em Flask
-
-**Stack:** Python, Flask, HTML, CSS, JavaScript  
-**Deploy:** [meu-portal-python.onrender.com](https://meu-portal-python.onrender.com)
-
-**Funcionalidades:**
-- Gerador de senhas e QR Codes
-- Calculadoras (IMC, CLT vs PJ, Juros)
-- Conversores (temperatura, moedas, medidas)
-- Integração com APIs (clima, tradução)
-- Sistema de estatísticas e painel admin
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CAlexdx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAlexdx&layout=compact&theme=tokyonight&hide_border=true)
-
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-CAlexdx-181717?style=for-the-badge&logo=github)](https://github.com/CAlexdx)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail)](mailto:minecraftxdxcalebe@gmail.com)
-
 ---
 
 <div align="center">
 
-💼 Aberto a oportunidades de estágio e colaborações
+**💼 Aberto a oportunidades de estágio e colaborações**
+
+Desenvolvido com ❤️ e Python
 
 </div>
-
