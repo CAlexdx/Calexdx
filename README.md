@@ -2,10 +2,7 @@
 
 ### 🎓 3º Ano Ensino Médio Técnico | 17 anos | 🔍 Em busca de estágio (DEEM)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAlexdx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CAlexdx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -83,4 +80,5 @@ const aprendendo = {
 💼 Aberto a oportunidades de estágio e conexões profissionais
 
 </div>
+
 
